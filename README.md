@@ -26,7 +26,7 @@ Project created as part of my front-end practice to improve layout, shapes and v
 ---
 
 ## 📸 Preview
-(Add your screenshot here once ready)
+![cat Screenshot](cat.PNG)
 
 ---
 
